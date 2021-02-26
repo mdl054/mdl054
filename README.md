@@ -1,15 +1,15 @@
 <h1 align="center">I'm Matt</h1>
-<h3 align="center">15+ years in IT. Security. Development. FOSS Advocate. Security+, CCNA. AWS SysOps Candidate.</h3>
+<h3 align="center">I have 15+ years of experience in IT. Interested in develpment, networking, and security. FOSS Advocate. Holding A+, Security+, CCNA R&S Certifications. AWS SysOps Administrator Associate Candidate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdl054&label=Profile%20views&color=0e75b6&style=flat" alt="mdl054" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mdl054" target="blank"><img src="https://img.shields.io/twitter/follow/mdl054?logo=twitter&style=for-the-badge" alt="mdl054" /></a> </p>
 
-- 🌱 I’m currently learning **AWS SysOps Administrator**
+- 🌱 I’m currently working toward my **AWS SysOps Administrator Associate** Certification
 
 - 👨‍💻 All of my projects are available here on github! [https://github.com/mdl054/](https://github.com/mdl054/)
 
-- 📝 I regularly write articles on IT. [Site coming soon.](Site coming soon.)
+- 📝 I regularly write articles on IT, cooking, and books. (Site coming soon.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
