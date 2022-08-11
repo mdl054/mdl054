@@ -1,5 +1,5 @@
 <h1 align="center">I'm Matt</h1>
-<h3 align="center">I have 15+ years of experience in IT. Interested in develpment, networking, and security. FOSS Advocate. Holding A+, Security+, CCNA, AWS SysOps Administrator Associate Certifications.</h3>
+<h3 align="center">I have 15+ years of experience in IT. Interested in develpment, networking, and security. Holding A+, Security+, CCNA, AWS SysOps Administrator Associate Certifications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdl054&label=Profile%20views&color=0e75b6&style=flat" alt="mdl054" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently working toward my **AWS SysOps Administrator Associate** Certification
 
 - 👨‍💻 All of my projects are available here on github! [https://github.com/mdl054/](https://github.com/mdl054/)
-
-- 📝 I regularly write articles on IT, cooking, and books. (Site coming soon.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
